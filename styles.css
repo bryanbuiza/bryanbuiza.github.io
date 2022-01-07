@@ -1,0 +1,278 @@
+@import url(https://fast.fonts.net/t/1.css?apiType=css&projectid=e10d7232-2c8c-477f-9727-046b6c5293ba);
+
+        @font-face{
+            font-family:"Trade Gothic W01 Roman";
+            src:url("https://fast.fonts.net/dv2/2/413d9688-00d4-47c4-bb55-656a0cd396e9.eot?d44f19a684109620e4841678af90e8185c0eda9c08d61767ca876c99e72a1a2cbfedb9a2e3b9aab59a60f1d660008646a8f29047b484a13bb131db84d726110bc50f28d7247664f48da0e684fffed274183d3133db53392b6a825e8f30553546e869d654d9c7a45ab7e2750de3500769882dabc939928ece6c7c260fb962527eea8d01dd6e3caef97129e950e0ac67fa05015ac4f89ea4b3e83ad9cb1dbfceecd50bf0e1b556b63921e5f189a5b629e0a670260539e7f4d2b498c2e55f226316a93964b42aa76a9add4257c11282f2c93a91801305dc5ca256a9&projectId=e10d7232-2c8c-477f-9727-046b6c5293ba#iefix");
+            src:url("https://fast.fonts.net/dv2/2/413d9688-00d4-47c4-bb55-656a0cd396e9.eot?d44f19a684109620e4841678af90e8185c0eda9c08d61767ca876c99e72a1a2cbfedb9a2e3b9aab59a60f1d660008646a8f29047b484a13bb131db84d726110bc50f28d7247664f48da0e684fffed274183d3133db53392b6a825e8f30553546e869d654d9c7a45ab7e2750de3500769882dabc939928ece6c7c260fb962527eea8d01dd6e3caef97129e950e0ac67fa05015ac4f89ea4b3e83ad9cb1dbfceecd50bf0e1b556b63921e5f189a5b629e0a670260539e7f4d2b498c2e55f226316a93964b42aa76a9add4257c11282f2c93a91801305dc5ca256a9&projectId=e10d7232-2c8c-477f-9727-046b6c5293ba#iefix") format("eot"),url("https://fast.fonts.net/dv2/14/7b555e94-d57a-415e-a36e-1b0c5d3b90d2.woff2?d44f19a684109620e4841678af90e8185c0eda9c08d61767ca876c99e72a1a2cbfedb9a2e3b9aab59a60f1d660008646a8f29047b484a13bb131db84d726110bc50f28d7247664f48da0e684fffed274183d3133db53392b6a825e8f30553546e869d654d9c7a45ab7e2750de3500769882dabc939928ece6c7c260fb962527eea8d01dd6e3caef97129e950e0ac67fa05015ac4f89ea4b3e83ad9cb1dbfceecd50bf0e1b556b63921e5f189a5b629e0a670260539e7f4d2b498c2e55f226316a93964b42aa76a9add4257c11282f2c93a91801305dc5ca256a9&projectId=e10d7232-2c8c-477f-9727-046b6c5293ba") format("woff2"),url("https://fast.fonts.net/dv2/3/c4aef0d4-bfcf-4790-acf5-909881f411e8.woff?d44f19a684109620e4841678af90e8185c0eda9c08d61767ca876c99e72a1a2cbfedb9a2e3b9aab59a60f1d660008646a8f29047b484a13bb131db84d726110bc50f28d7247664f48da0e684fffed274183d3133db53392b6a825e8f30553546e869d654d9c7a45ab7e2750de3500769882dabc939928ece6c7c260fb962527eea8d01dd6e3caef97129e950e0ac67fa05015ac4f89ea4b3e83ad9cb1dbfceecd50bf0e1b556b63921e5f189a5b629e0a670260539e7f4d2b498c2e55f226316a93964b42aa76a9add4257c11282f2c93a91801305dc5ca256a9&projectId=e10d7232-2c8c-477f-9727-046b6c5293ba") format("woff"),url("https://fast.fonts.net/dv2/1/e741f29c-bc18-4343-bff3-db2465a0be3e.ttf?d44f19a684109620e4841678af90e8185c0eda9c08d61767ca876c99e72a1a2cbfedb9a2e3b9aab59a60f1d660008646a8f29047b484a13bb131db84d726110bc50f28d7247664f48da0e684fffed274183d3133db53392b6a825e8f30553546e869d654d9c7a45ab7e2750de3500769882dabc939928ece6c7c260fb962527eea8d01dd6e3caef97129e950e0ac67fa05015ac4f89ea4b3e83ad9cb1dbfceecd50bf0e1b556b63921e5f189a5b629e0a670260539e7f4d2b498c2e55f226316a93964b42aa76a9add4257c11282f2c93a91801305dc5ca256a9&projectId=e10d7232-2c8c-477f-9727-046b6c5293ba") format("truetype"),url("https://fast.fonts.net/dv2/11/853e2a9b-4057-42a5-ad7e-0762cda0b13c.svg?d44f19a684109620e4841678af90e8185c0eda9c08d61767ca876c99e72a1a2cbfedb9a2e3b9aab59a60f1d660008646a8f29047b484a13bb131db84d726110bc50f28d7247664f48da0e684fffed274183d3133db53392b6a825e8f30553546e869d654d9c7a45ab7e2750de3500769882dabc939928ece6c7c260fb962527eea8d01dd6e3caef97129e950e0ac67fa05015ac4f89ea4b3e83ad9cb1dbfceecd50bf0e1b556b63921e5f189a5b629e0a670260539e7f4d2b498c2e55f226316a93964b42aa76a9add4257c11282f2c93a91801305dc5ca256a9&projectId=e10d7232-2c8c-477f-9727-046b6c5293ba#853e2a9b-4057-42a5-ad7e-0762cda0b13c") format("svg");
+        }
+        * {
+            box-sizing: content-box !important;
+        }
+        body {
+            font-family: Trade Gothic W01 Roman;
+            line-height: 1.43;
+        }
+
+        .form-container {
+            background-color: #282828;
+            color: #ffffff;
+            margin-left: auto;
+            margin-right: auto;
+            width: 800px;
+            /* height: auto; */
+			height: fit-content;
+            padding: 20px;
+            box-shadow: 0 10px 25px rgb(0 0 0 / 50%);
+			left: calc(50% - 400px)!important;
+        }
+		.form-content {
+                height: fit-content !important;
+			}
+        .property-group {
+            background: transparent !important;
+        }
+        
+        .property-group .bw2-col:nth-child(1) {
+            display: block;
+            margin-right: auto;
+        }
+
+        .property-group .bw2-col:nth-child(2) {
+            display: block;
+            margin-left: auto;
+        }
+		.property-item {
+			margin-bottom: 28px;
+		}
+		.form-input-container {
+			margin: 10px 0 10px 10px !important;
+		}
+        .property-item.property-item-check {
+            display: block !important;
+            position: relative;
+            padding-left: 35px;
+			margin-top: 0px;
+            margin-bottom: 5px;
+            cursor: pointer;
+            font-size: 18px;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+        .property-item.property-item-check .form-input-container {
+			/* display: none; */
+			margin: 0 !important;
+            height: 0 !important;
+        }
+        .property-item-container input[type=checkbox] {
+            position: absolute;
+            opacity: 0;
+            cursor: pointer;
+            height: 0;
+            width: 0;
+        }
+
+        .dx-checkbox-icon {
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: 23px;
+            width: 23px;
+            background-color: #fff;
+        }
+
+        .property-item.property-item-check:hover input ~ div > .dx-checkbox-icon {
+            background-color: #ccc;
+        }
+
+
+        .property-item.property-item-check input:checked ~ div > .dx-checkbox-icon {
+            background-color: #aa1428;
+        }
+
+        .dx-checkbox-icon:after {
+            content: "";
+            position: absolute;
+            display: none;
+        }
+
+
+        .property-item.property-item-check input:checked ~ div > .dx-checkbox-icon:after {
+            display: block;
+        }
+
+
+        .property-item.property-item-check .dx-checkbox-icon:after {
+            left: 7px;
+            top: 5px;
+            width: 5px;
+            height: 8px;
+            border: solid white;
+            border-width: 0 3px 3px 0;
+            -webkit-transform: rotate(45deg);
+            -ms-transform: rotate(45deg);
+            transform: rotate(45deg);
+        }
+
+        .property-caption {
+            border-bottom: none !important;
+        }
+
+        .form-input-container:focus-within  { 
+            outline: 1px solid #c40a23;
+            border-color: #aa1428;
+            box-shadow: 0 0 10px #aa1428;
+        }
+        .property-item.property-item-check .form-input-container:focus-within  { 
+            outline: none;
+            border-color: none;
+            box-shadow: none;
+        }
+        textarea:focus { 
+            outline: 1px solid #c40a23;
+            border-color: #aa1428;
+            box-shadow: 0 0 10px #aa1428;
+        }
+
+        .property-item-container {
+            display: flex !important;
+            flex-direction: column;
+        }
+        .property-item-container .form-input-container {
+            margin-left: 10px !important;
+        }
+
+        .custom-input input {
+			min-height: 20px !important;
+            height: 20px !important;
+            padding: 6px 10px !important;
+        }
+
+        input[type = "text"] {
+        font-size: 18px;
+        }
+
+        input[type = "number"] {
+        font-size: 18px;
+        }
+
+        input[type = "email"] {
+        font-size: 18px;
+        }
+
+
+        input[type = "date"] {
+        font-size: 18px;
+        }
+		.form-buttons-container {
+			display: grid;
+			grid-template-columns: repeat(2, 1fr);
+		}
+        .btn-detail-toolbar.button-caption {
+            width: fit-content;
+			justify-content: center;
+			grid-column: 2 / 3;;
+			margin-left: 20px !important;
+            background: #aa1428 !important;
+            color: #fff;
+            padding: 8px 15px 7px 15px;
+            text-transform: uppercase;
+            border: none;
+			border-radius: 0px !important;
+            position: relative;
+            text-decoration: none !important;
+            font-size: 16px;
+            cursor: pointer;
+            font-family: Trade Gothic W01 Roman;
+        }
+        .property-group {
+            display: flex !important;
+            margin-left: auto;
+            margin-right: auto;
+            font-size: 18px;
+        }
+
+        h1 {
+            text-transform: uppercase;
+        }
+
+        @media screen and (max-width: 1024px){
+            h1 {
+                font-size: 32px;
+            }
+
+            .form-container {
+                margin-left: auto;
+                margin-right: auto;
+                width: 800px;
+            }
+
+            .property-group .bw2-col:nth-child(1) {
+                display: block;
+                margin-right: auto;
+            }
+
+            .property-group .bw2-col:nth-child(2) {
+                display: block;
+                margin-left: auto;
+            }
+
+        }
+
+        @media screen and (max-width: 768px){
+            h1 {
+                font-size: 24px;
+            }
+
+            .form-container {
+                margin-left: auto;
+                margin-right: auto;
+                width: 350px;
+                height: fit-content;
+            }
+
+            .form {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+
+			.form-content {
+                height: fit-content !important;
+			}
+			/* .form-buttons-container {
+				grid-template-columns: repeat(1, 1fr);
+				place-items: center;
+			} */
+			.form-buttons-container {
+				display: flex;
+				justify-content: start;
+			}
+			.btn-detail-toolbar.button-caption {
+				margin-left: 40px !important;
+			}
+			.form-container {
+				width: 100%;
+				left: auto !important;
+        	}
+
+			.property-group {
+				flex-flow: column;
+			}
+
+            .property-group .bw2-col:nth-child(1) {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+				padding-left: 20px;
+				margin-bottom: 24px;
+            }
+
+            .property-group .bw2-col:nth-child(2) {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+
+        }
